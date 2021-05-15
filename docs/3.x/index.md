@@ -12,7 +12,7 @@ sections:
 ## Key Features
 
 1. Simple API
-2. Interoperabiity. Container is an implementation of [PSR-11](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-11-container.md).
+2. Interoperability. Container is an implementation of [PSR-11](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-11-container.md).
 3. Speed. Because Container is simple, it is also very fast.
 4. Service Providers allow you to package code or configuration for packages that you reuse regularly.
 5. Inflectors allow you to manipulate objects resolved through the container based on the type.
